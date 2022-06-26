@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<link href="../mycss/styles.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="../myhtml/mycss/slider.css" rel="stylesheet" type="text/css" media="screen">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+	<script type="text/javascript" src="../myhtml/myjs/jquery.js"></script>
+<script type="text/javascript" src="../myhtml/myjs/slider.js"></script>
+<!-- TemplateBeginEditable name="doctitle" -->
+    <title>Fx Prime Traders</title>
+    <!-- TemplateEndEditable -->
+    <!-- TemplateBeginEditable name="head" -->
+    <!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id ="outer">
+<div id ="wrapper">
+ <div id ="logo">
+<img src="../images/logo/.jpg" height="100" width="200"><br>
+</div>
+ <div id="social-media-icons">
+ <p>"insert slogan here"</p>
+  <ul>
+<li><a href="http://www.facebook.com" target="_blank"><img src="../images/social media icons/facebook.jpg" height="30" width="30"></a></li>
+<li><a href="http://www.telegram.com" target="_blank"><img src="../images/social media icons/telegram.jpg" height="30" width="30"></a></li>
+<li><a href="http://www.twitter.com" target="_blank"><img src="../images/social media icons/twitter.png" height="30" width="30"></a></li>
+<li><a href="http://www.whatsapp.com" target="_blank"><img src="../images/social media icons/whatsapp.png" height="30" width="30"></a></li></div>
+
+<div id="heading">
+ <h1 class="name"> FX PRIME TRADERS <h1>
+ 
+</div>
+
+<div id="topnav">
+<ul>
+<li><a href="../index.html">HOME</a></li>
+<li><a href="about us.html">ABOUT US</a></li>
+<li><a href="Resources.html">RESOURCES</a></li>
+<li><a href="contacts.html">CONTACTS</a></li>
+<li><a href="Getting started.html">GETTING STARTED</a></li>
+
+</ul>
+
+</div>
+
+<div id="banner"></br></br>
+<img src="../images/banners/b1.jpg"height="300" width="900" />
+</div>
+
+<div id="content"><!-- TemplateBeginEditable name="content" -->
+  <h1>WELCOME TO FX PRIME COPY WEBSITE</h1>
+  <p></p>
+      <img class="image-frame" src="../images/contents/c6.jpg" height="200" width="300" /><img class="image-frame" src="../images/contents/c8.jpg" height="200" width="300" />
+      <p> </p>
+  
+<!-- TemplateEndEditable --></div>
+
+div id="right">
+<h2>
+<strong>Latest News</strong>
+<h2><br>
+<p class="date">1st OCTOBER 2020
+<p>Kenya and U.S.A Trade Bilateral talks on Their Economies.Kenya and her ally U.S.A signal the important trade talks that is expected to determine the
+direction of the Free Trade Agreement deals between the two Countries. This followed after an
+official release of the Joint Statement Between the republican of Kenya and the United States
+on the begining of Negotiations Towards a Free Trade Agreement.</p>
+<h3>Sample headlines</h3>
+<h2> 
+<strong>News</strong>
+<h2>
+<br>
+<p>3.AFRiCA&#39;s CAPITAL FLIGHT LOSSES, IS ENOUGH FOR SELF SUSTAINANCE.According to the recent reports by the UN,Africa losses alot of it&#39;s hard earned money in ilicit
+capital flights. This includes majorly corruption in both the Private and public sectors,tax
+evassions,greed and theft of public funds and deliberate miss invoicing of trade shipments.</p>
+<h3>Another headlines</h3>
+<p>1)ICEA LION General Insurance&#39;s new C .E .O. One of the King kong,thriving corporations of Africa,the ICEA LION General insurance organisation&#39;s
+leadership named their new CEO in town Paul Muthaura (MBS). Paul Muthaura will step in the shoes of
+the world class custodial leadership of Steven Oluoch .</p>
+</div>
+
+
+<div id="footer">
+<p class="footer-text">copyright &#169; 2020:FX PRIME COPY : All rights reserved<p>
+
+</div>
+
+</div>
+</div>
+</body>
+</html>
